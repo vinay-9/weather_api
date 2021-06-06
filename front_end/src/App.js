@@ -12,8 +12,10 @@ import ThumbUpAltOutlinedIcon from '@material-ui/icons/ThumbUpAltOutlined';
 import WeatherContent from './WeatherContent';
 import Login from './Login';
 import Home from "./Home"
+
 export default function App() {
   useEffect(() => {
+      // add the requirements when age needs to be updated/reloaded
       }, [])
 
 
