@@ -1,0 +1,40 @@
+{
+  "name": "special_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "bootstrap": "^5.0.0",
+    "concurrently": "^6.1.0",
+    "create-react-app": "^4.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "qs": "^6.10.1",
+    "react-bootstrap": "^1.5.2",
+    "react-collapsible": "^2.8.3",
+    "react-dom": "^17.0.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js",
+    "client": "npm start --prefix front_end",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "proxy": "http://localhost:5000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay-9/abbreviate-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay-9/abbreviate-dictionary/issues"
+  },
+  "homepage": "https://github.com/vinay-9/abbreviate-dictionary#readme"
+}

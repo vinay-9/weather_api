@@ -1,0 +1,105 @@
+
+.App{
+  padding-left: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  display: flex;
+  background-color:  rgb(219, 220, 255);
+}
+.input{
+    display: flex;
+    object-fit: contain;
+    width: 95%;
+    font-size: small;
+    margin-left: 15px;
+
+}
+/* .List{
+    margin-right: 50px;
+} */
+/* .card{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    text-indent: 15px;
+    margin-right: 100px;
+    
+    transition: width 2s;
+    
+
+}
+SearchIcon{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-self: flex-end;
+    vertical-align: middle;
+    margin-left: 0px;
+    position: absolute;
+}
+h4{
+    font-style: oblique;
+    margin-bottom: 0;
+}
+.example{
+    color:rgb(57, 0, 80);
+    font-size: small;
+    margin-top: 0%;
+    margin-bottom: 0px;
+
+}
+.thumbs{
+    color:rgba(108, 2, 134, 0.678);
+    margin-top: 1px;
+    margin-left: 20px;
+    
+}
+.thumbs_data{
+    font-size:small;
+    color: rgba(77, 0, 150, 0.685);
+    font-weight: 500;
+    align-items: center;
+    text-indent: 85%;
+    
+}
+
+
+.List-Container {
+  background-color:  rgb(227, 228, 255);;
+  font-weight: 600;
+  border-color: black;
+  border: 2px;
+  margin-left: 30px;
+  margin-right: 20px;
+  border-radius: 2px;
+
+}
+.sublist{
+    background-color:  rgb(227, 228, 255);;
+    width:100%;
+  border-color: black;
+  border: 2px;
+  font-size: small;
+  font-weight: 500;
+  color: brown;
+  margin-right: 20px;
+  display:inline-table;
+
+}
+.btn-api{
+  border-radius: 3px;
+  height: auto;
+  border-width: 2px;
+  border-style:solid;
+  border-color: aliceblue;
+  align-self: center;
+  background-color:  rgb(173, 174, 252);;
+  font-size: large;
+  padding: 8px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 2px;
+  
+}
+ */

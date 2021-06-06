@@ -1,0 +1,58 @@
+img{
+    position: fixed;
+    z-index: -1;
+    display: flex;
+}
+.card{
+    display: block;
+    background-color: rgba(255, 255, 255, 0.418);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 40%;
+    height:50%;
+    transition: width 2s;
+    margin-top:10%;
+    position: absolute;
+    margin-left: 30%
+}
+.inner_ul{
+    list-style: none;
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+
+.List{
+    margin-bottom: 20%;
+    margin-left: 2%;
+    list-style-type: none;
+}
+h4{
+    font-style: oblique;
+    margin-bottom: 0;
+}
+.example{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0px;
+
+}
+.thumbs{
+    color:rgba(108, 2, 134, 0.678);
+    margin-top: 1px;
+    margin-left: 20px;
+    
+}
+.thumbs_data{
+    font-size:small;
+    color: rgba(77, 0, 150, 0.685);
+    font-weight: 500;
+    align-items: center;
+    text-indent: 85%;
+    
+}
